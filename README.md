@@ -1,4 +1,4 @@
-Sistema de controle de Estok para studios.
+Sistema de controle de Estoque para estúdios.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
