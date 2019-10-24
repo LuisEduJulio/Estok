@@ -1,0 +1,82 @@
+[2019-10-18 10:28:26.295] [exthost] [info] extension host started
+[2019-10-18 10:28:26.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:28:26.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-18 10:28:26.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:28:26.550] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-18 10:28:26.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:28:26.701] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-18 10:28:27.058] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:28:27.058] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-18 10:28:27.350] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:28:27.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luis/.vscode/extensions/vscode-icons-team.vscode-icons-9.4.0/dist/src/vscode-icons.bundle.js
+[2019-10-18 10:28:27.684] [exthost] [info] eager extensions activated
+[2019-10-18 10:30:02.311] [exthost] [info] extension host started
+[2019-10-18 10:30:02.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:30:02.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-18 10:30:02.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:30:02.333] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-18 10:30:02.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:30:02.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-18 10:30:02.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:30:02.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-18 10:30:02.872] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-10-18 10:30:02.873] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/luis/.vscode/extensions/vscode-icons-team.vscode-icons-9.4.0/dist/src/vscode-icons.bundle.js
+[2019-10-18 10:30:03.239] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-10-18 10:30:03.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-10-18 10:30:03.424] [exthost] [info] eager extensions activated
+[2019-10-18 10:30:09.988] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-18 10:30:09.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-10-18 10:30:10.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-18 10:30:10.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-10-18 10:30:10.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-10-18 10:30:10.373] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-18 10:30:10.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-10-18 10:30:10.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/grunt/dist/main
+[2019-10-18 10:30:10.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-10-18 10:30:10.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/gulp/dist/main
+[2019-10-18 10:30:11.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-10-18 10:30:11.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/jake/dist/main
+[2019-10-18 10:30:17.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-10-18 10:30:17.686] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-10-18 10:30:44.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-18 10:30:44.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-18 11:11:34.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-10-18 11:11:34.453] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-10-18 11:55:42.937] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-10-18 11:55:42.941] [exthost] [error] Error: <semantic> TypeScript Server Error (3.6.2)
+No Project.
+Error: No Project.
+    at Object.ThrowNoProject (tsserver.js:128015:23)
+    at ScriptInfo.getDefaultProject (tsserver.js:128755:46)
+    at ProjectService.doEnsureDefaultProjectForFile (tsserver.js:130952:48)
+    at ProjectService.ensureDefaultProjectForFile (tsserver.js:130947:75)
+    at IOSession.Session.getFileAndProjectWorker (tsserver.js:134500:87)
+    at IOSession.Session.getFileAndProject (tsserver.js:134483:29)
+    at IOSession.Session.getApplicableRefactors (tsserver.js:134933:31)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:133790:61)
+    at tsserver.js:135178:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:135169:28)
+    at IOSession.Session.executeCommand (tsserver.js:135178:33)
+    at IOSession.Session.onMessage (tsserver.js:135201:35)
+    at Interface.<anonymous> (tsserver.js:136516:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:63463)
+	at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:56618)
+	at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:55516)
+	at constructor._reader.onData.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:54992)
+	at u.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at t.Reader.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61683)
+	at Socket.t.Reader.constructor.e.on.e (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:53:61331)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
